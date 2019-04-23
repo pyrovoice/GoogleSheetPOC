@@ -1,0 +1,12 @@
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\bin\Debug\netcoreapp2.1\GoogleSheetPOC.deps.json
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\bin\Debug\netcoreapp2.1\GoogleSheetPOC.runtimeconfig.json
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\bin\Debug\netcoreapp2.1\GoogleSheetPOC.runtimeconfig.dev.json
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\bin\Debug\netcoreapp2.1\GoogleSheetPOC.dll
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\obj\Debug\netcoreapp2.1\GoogleSheetPOC.csprojAssemblyReference.cache
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\obj\Debug\netcoreapp2.1\GoogleSheetPOC.csproj.CoreCompileInputs.cache
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\obj\Debug\netcoreapp2.1\GoogleSheetPOC.AssemblyInfoInputs.cache
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\obj\Debug\netcoreapp2.1\GoogleSheetPOC.AssemblyInfo.cs
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\bin\Debug\netcoreapp2.1\Ressources\credentials.json
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\bin\Debug\netcoreapp2.1\GoogleSheetPOC.pdb
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\obj\Debug\netcoreapp2.1\GoogleSheetPOC.dll
+C:\Users\mgrazzin\source\repos\GoogleSheetPOC\GoogleSheetPOC\obj\Debug\netcoreapp2.1\GoogleSheetPOC.pdb
